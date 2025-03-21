@@ -7,3 +7,5 @@ Our repository contains two coding files: BIO165_final_DeSeq2.ipynb and BIO165_f
 
 
 Our repository also contains the raw data we used: karim_etal_data.csv
+
+The output of the DeSeq2 code with additional information about significantly differentially expressed genes is in the .xlsx files. Downregulated_genes and upregulated_genes contain results of comparison of overTST vs WT TST. Downregulated_genes_sh and upregulated_genes_sh contain results of comparison of shTST vs WT TST. 
